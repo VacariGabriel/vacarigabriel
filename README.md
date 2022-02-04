@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/GlumAgonizingEel-size_restricted.gif" height="190" />
 
-🔭 I’m currently working on [C6 Bank](https://www.c6bank.com.br/)
+🔭 I’m currently working at [C6 Bank](https://www.c6bank.com.br/)
 
 🌱 I’m currently learning Kotlin.
 
