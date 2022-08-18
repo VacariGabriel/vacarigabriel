@@ -6,7 +6,7 @@
 
 🔭 I’m currently working at Mercado Pago
 
-🌱 I’m currently learning Kotlin.
+🌱 I’m currently learning Go.
 
 💬 Ask me about: tech and physics.
 
